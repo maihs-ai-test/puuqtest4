@@ -1,0 +1,379 @@
+{
+  "concept": {
+    "companyName": "SANTOSH RAI",
+    "tagline": "Full Stack Developer met een passie voor innovatieve weboplossingen",
+    "sector": "Full Stack Development",
+    "colors": {
+      "primary": "#8B5CF6",
+      "secondary": "#5B21B6",
+      "accent": "#8B5CF6",
+      "background": "#FDFCFD",
+      "text": "#1E1E1E"
+    },
+    "styleOverrides": {},
+    "contact": {
+      "phone": "+31 6 1234 5678",
+      "email": "santoshrai3.1415@gmail.com",
+      "address": "Sydney, Australië"
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "santosh-rai-dev",
+      "youtube": ""
+    },
+    "heroTitle": "Innovatieve Weboplossingen die Werken",
+    "heroSubtitle": "Als full stack developer transformeer ik jouw ideeën naar krachtige web applicaties. Van concept tot deployment - ik zorg voor digitale oplossingen die jouw business naar een hoger niveau tillen.",
+    "heroBadge": "Full Stack Expert",
+    "heroButtonText": "Start Project",
+    "uspCards": [
+      {
+        "icon": "Zap",
+        "title": "Snelle Development",
+        "description": "Efficiënte ontwikkeling met moderne technologieën voor snel time-to-market"
+      },
+      {
+        "icon": "Shield",
+        "title": "Veilige Oplossingen",
+        "description": "Hoogwaardige beveiliging en best practices in elke applicatie"
+      },
+      {
+        "icon": "Users",
+        "title": "User-Centered Design",
+        "description": "Intuïtieve interfaces die gebruikers een geweldige ervaring bieden"
+      }
+    ],
+    "about": {
+      "title": "Expertise in Full Stack Development",
+      "text": "Met jarenlange ervaring in zowel frontend als backend development, specialiseer ik me in het bouwen van complete weboplossingen. Van responsive websites tot complexe web applicaties - ik beheers de volledige stack.\n\nMijn passie ligt in het creëren van digitale ervaringen die niet alleen mooi zijn, maar ook functioneel en schaalbaar. Elke lijn code wordt geschreven met aandacht voor performance, beveiliging en onderhoudbaarheid.",
+      "yearsExperience": "7",
+      "checklistItems": [
+        "Modern JavaScript & TypeScript",
+        "React, Node.js & Database Design",
+        "Cloud Deployment & DevOps"
+      ]
+    },
+    "partners": [
+      "TechCorp Australia",
+      "Digital Ventures",
+      "StartupHub Sydney",
+      "InnovateNow",
+      "WebSolutions Pro",
+      "CloudFirst Technologies"
+    ],
+    "uniqueFeatures": {
+      "sectionTitle": "Waarom kiezen voor mijn aanpak?",
+      "sectionText": "Elk project is uniek en verdient een op maat gemaakte oplossing. Ik combineer technische expertise met creatief denken.",
+      "items": [
+        {
+          "icon": "Lightbulb",
+          "title": "Innovatieve Concepten",
+          "description": "Creatieve oplossingen die opvallen in de markt"
+        },
+        {
+          "icon": "Settings",
+          "title": "Maatwerk Development",
+          "description": "Geen standaard templates, maar volledig custom oplossingen"
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Schaalbare Architectuur",
+          "description": "Gebouwd om mee te groeien met jouw business"
+        },
+        {
+          "icon": "Award",
+          "title": "Premium Kwaliteit",
+          "description": "Code reviews, testing en optimalisatie als standaard"
+        }
+      ]
+    },
+    "services": [
+      {
+        "name": "Web Applicaties",
+        "description": "Complete web applicaties met moderne frameworks. Van SPA's tot complexe dashboard systemen met real-time functionaliteiten en geavanceerde user interfaces.",
+        "imagePrompt": "Professional developer working on modern web application dashboard with multiple screens showing clean interface design, coding environment, modern office setting with natural lighting and purple accent colors"
+      },
+      {
+        "name": "E-commerce Platforms",
+        "description": "Krachtige webshops en e-commerce oplossingen. Volledig geïntegreerd met payment gateways, inventory management en analytics voor optimale conversie.",
+        "imagePrompt": "Modern e-commerce website displayed on laptop and mobile devices showing product pages, shopping cart, checkout process, clean design with purple branding elements in bright commercial photography style"
+      },
+      {
+        "name": "Custom Dashboards",
+        "description": "Data-gedreven dashboards en analytics platforms. Real-time visualisaties, rapportage tools en gebruiksvriendelijke interfaces voor complex data management.",
+        "imagePrompt": "Business professional analyzing data on multiple monitors displaying colorful charts, graphs, and analytics dashboards with modern UI design, purple accent colors, clean office environment"
+      },
+      {
+        "name": "Backend API Development",
+        "description": "Robuuste backend systemen en RESTful APIs. Schaalbare microservices architectuur met database optimalisatie en beveiligde endpoints voor al jouw applicaties.",
+        "imagePrompt": "Clean minimalist setup showing code on multiple monitors with API documentation, server architecture diagrams, modern development workspace with soft lighting and purple tech aesthetic"
+      },
+      {
+        "name": "Database Ontwerp",
+        "description": "Efficiënte database structuren en optimalisatie. Van relationele databases tot NoSQL oplossingen, volledig afgestemd op jouw specifieke data requirements.",
+        "imagePrompt": "Database schema visualization on large monitor with entity relationship diagrams, query optimization tools, modern tech workspace with clean design and professional purple lighting accents"
+      },
+      {
+        "name": "Cloud Deployment",
+        "description": "Professionele deployment en hosting oplossingen. CI/CD pipelines, cloud infrastructuur management en monitoring voor optimale performance en uptime.",
+        "imagePrompt": "Modern server room or cloud infrastructure visualization with monitoring dashboards, deployment pipelines on screens, high-tech environment with purple accent lighting and professional atmosphere"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "Handshake",
+        "title": "Kennismaking & Planning",
+        "description": "We bespreken jouw visie, requirements en projectdoelen om een duidelijke roadmap te creëren"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Design & Architectuur",
+        "description": "Ontwerp van user interface, database structuur en technische architectuur voor optimale performance"
+      },
+      {
+        "icon": "Settings",
+        "title": "Development & Testing",
+        "description": "Agile development proces met regelmatige updates, code reviews en uitgebreide testing"
+      },
+      {
+        "icon": "Globe",
+        "title": "Launch & Ondersteuning",
+        "description": "Deployment naar productie omgeving en doorlopende support voor optimale werking"
+      }
+    ],
+    "stepsTitle": "Mijn Development Proces",
+    "stepsText": "Van idee tot live applicatie - een gestructureerde aanpak die resultaat garandeert.",
+    "projects": [
+      {
+        "name": "TechFlow Dashboard",
+        "date": "december 2024",
+        "location": "Sydney",
+        "imagePrompt": "Modern business dashboard interface on large monitor showing analytics charts, data visualizations, clean purple and white design, professional office setting with natural lighting"
+      },
+      {
+        "name": "EcoShop Platform",
+        "date": "november 2024",
+        "location": "Melbourne",
+        "imagePrompt": "E-commerce website displaying sustainable products, clean shopping interface, mobile responsive design, modern purple branding elements, bright commercial photography"
+      },
+      {
+        "name": "FinanceTracker Pro",
+        "date": "oktober 2024",
+        "location": "Brisbane",
+        "imagePrompt": "Financial tracking application with expense charts, budget planning interface, modern UI design with purple accents, professional workspace environment"
+      },
+      {
+        "name": "EventHub Management",
+        "date": "september 2024",
+        "location": "Perth",
+        "imagePrompt": "Event management platform showing calendar interface, booking system, attendee management dashboard, clean modern design with professional purple branding"
+      },
+      {
+        "name": "HealthMonitor API",
+        "date": "augustus 2024",
+        "location": "Adelaide",
+        "imagePrompt": "Healthcare data visualization dashboard with patient monitoring charts, API documentation interface, clean medical-grade UI design with subtle purple accents"
+      },
+      {
+        "name": "LogisticFlow System",
+        "date": "juli 2024",
+        "location": "Darwin",
+        "imagePrompt": "Logistics tracking system showing shipment monitoring, route optimization maps, warehouse management interface, professional industrial design with purple tech elements"
+      }
+    ],
+    "blogPosts": [
+      {
+        "title": "Modern JavaScript Frameworks in 2025",
+        "excerpt": "Een diepgaande vergelijking van React, Vue en Angular. Welk framework past het beste bij jouw volgende project en waarom maken de juiste keuzes het verschil.",
+        "imagePrompt": "Modern developer workspace with multiple monitors showing JavaScript code, framework logos, clean purple and white tech aesthetic, professional lighting setup"
+      },
+      {
+        "title": "Database Performance Optimalisatie Tips",
+        "excerpt": "Praktische strategieën om je database queries te versnellen. Van indexing tot query optimization - concrete tips die direct impact hebben op je applicatie performance.",
+        "imagePrompt": "Database performance monitoring dashboard with query analysis charts, optimization tools interface, modern tech workspace with purple accent colors and professional lighting"
+      },
+      {
+        "title": "Cloud Deployment Best Practices",
+        "excerpt": "Stap-voor-stap guide voor professionele deployment. CI/CD pipelines, monitoring setup en security considerations voor een robuuste productie omgeving.",
+        "imagePrompt": "Cloud infrastructure visualization with deployment pipelines, monitoring dashboards, server architecture diagrams, high-tech environment with soft purple lighting accents"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Emma van der Berg",
+        "company": "TechStart Amsterdam",
+        "quote": "Santosh heeft onze web applicatie perfect gerealiseerd. Zijn technische expertise en proactieve communicatie maakten het verschil. Zeer tevreden met het resultaat.",
+        "rating": 5
+      },
+      {
+        "name": "Pieter Janssen",
+        "company": "Digital Innovations",
+        "quote": "Uitstekende developer die complexe requirements omzet naar elegante oplossingen. De applicatie werkt vlekkeloos en de code kwaliteit is top niveau.",
+        "rating": 5
+      },
+      {
+        "name": "Sophie de Wit",
+        "company": "E-commerce Plus",
+        "quote": "Onze webshop draait nu perfect dankzij Santosh. Snelle laadtijden, intuïtieve interface en alle functionaliteiten werken precies zoals bedoeld.",
+        "rating": 5
+      },
+      {
+        "name": "Marco Vermeulen",
+        "company": "DataFlow Systems",
+        "quote": "Indrukwekkende expertise in zowel frontend als backend. Het dashboard dat hij ontwikkelde heeft onze workflow volledig geoptimaliseerd.",
+        "rating": 5
+      },
+      {
+        "name": "Lisa Hendricks",
+        "company": "StartupLab Rotterdam",
+        "quote": "Santosh denkt mee in oplossingen en levert altijd op tijd. Zijn full stack kennis en oog voor detail maken hem een ideale development partner.",
+        "rating": 5
+      }
+    ],
+    "ctaTitle": "Klaar om je project te realiseren?",
+    "ctaText": "Laten we jouw ideeën omzetten naar een krachtige digitale oplossing. Neem contact op voor een vrijblijvend gesprek over de mogelijkheden.",
+    "ctaButtonText": "Start Gesprek",
+    "footerTagline": "Full Stack Development Excellence",
+    "footerLinks": [
+      {
+        "label": "Privacy Policy",
+        "href": "#"
+      },
+      {
+        "label": "Terms of Service",
+        "href": "#"
+      },
+      {
+        "label": "Cookies",
+        "href": "#"
+      }
+    ],
+    "companyInfo": {
+      "kvk": "",
+      "btw": "",
+      "iban": "",
+      "whatsappNumber": ""
+    },
+    "seoTitle": "SANTOSH RAI - Full Stack Developer | Web Applicaties & E-commerce",
+    "seoDescription": "Professionele full stack development services. Specialistisch in web applicaties, e-commerce platforms en custom dashboards. Innovatieve oplossingen voor jouw business.",
+    "pages": [
+      {
+        "name": "Home",
+        "slug": "/"
+      },
+      {
+        "name": "Diensten",
+        "slug": "/diensten"
+      },
+      {
+        "name": "Projecten",
+        "slug": "/projecten"
+      },
+      {
+        "name": "Over ons",
+        "slug": "/over-ons"
+      },
+      {
+        "name": "Contact",
+        "slug": "/contact"
+      }
+    ],
+    "diensten": {
+      "heroTitle": "Diensten",
+      "heroText": "Complete full stack development oplossingen voor moderne businesses. Van concept tot deployment.",
+      "sectionTitle": "Wat ik voor je kan betekenen",
+      "sectionText": "Als ervaren full stack developer lever ik end-to-end oplossingen die jouw business doelen ondersteunen. Moderne technologieën, schaalbare architectuur en gebruiksvriendelijke interfaces.",
+      "uspTitle": "Mijn development principes",
+      "uspText": "Elke applicatie wordt gebouwd met aandacht voor kwaliteit, performance en toekomstbestendigheid. Door gebruik te maken van proven frameworks en best practices, lever ik oplossingen die niet alleen vandaag werken, maar ook morgen nog steeds relevant zijn.\n\nMijn aanpak combineert technische excellentie met praktische business inzichten voor optimale resultaten.",
+      "uspChecklist": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    },
+    "projecten": {
+      "heroTitle": "Projecten",
+      "heroText": "Een overzicht van recente projecten die laten zien wat mogelijk is met de juiste technische aanpak.",
+      "gridTitle": "Gerealiseerde Oplossingen",
+      "gridText": "Van web applicaties tot e-commerce platforms - elk project is uniek en vraagt om een specifieke aanpak."
+    },
+    "overOns": {
+      "heroTitle": "Over ons",
+      "heroText": "Kennismaking met de persoon achter de code en de passie voor innovatieve weboplossingen.",
+      "storyTitle": "Mijn verhaal",
+      "storyText": "Als full stack developer ben ik gedreven door de mogelijkheden van moderne webtechnologieën. Met een achtergrond in zowel computer science als business development, begrijp ik niet alleen hoe code werkt, maar ook hoe technologie bedrijven kan transformeren.\n\nMijn reis begon met een fascination voor het web en groeide uit tot expertise in complete digitale ecosystemen. Van frontend frameworks tot cloud architectuur - ik beheers de volledige stack.\n\nVanuit Sydney werk ik met klanten wereldwijd aan projecten die impact maken. Elke dag brengt nieuwe uitdagingen en kansen om innovatieve oplossingen te creëren."
+    },
+    "contactPage": {
+      "heroTitle": "Contact",
+      "heroText": "Klaar om je volgende project te bespreken? Laten we kijken hoe ik jouw ideeën kan realiseren.",
+      "detailsTitle": "Laten we praten over jouw project",
+      "detailsText": "Of je nu een startup bent met een revolutionair idee of een gevestigd bedrijf dat digitale transformatie zoekt - ik sta klaar om te helpen.",
+      "faqTitle": "Veelgestelde vragen",
+      "faqText": "Hieronder vind je antwoorden op de meest gestelde vragen over mijn development services.",
+      "faq": [
+        {
+          "question": "Wat zijn jouw specialisaties binnen full stack development?",
+          "answer": "Ik specialiseer me in moderne JavaScript frameworks (React, Node.js), database design, API development en cloud deployment. Daarnaast heb ik uitgebreide ervaring met e-commerce platforms en data-gedreven applicaties."
+        },
+        {
+          "question": "Hoe lang duurt een gemiddeld project?",
+          "answer": "Dit hangt af van de complexiteit en scope. Een basis website duurt 2-4 weken, terwijl complexe web applicaties 2-6 maanden kunnen duren. Tijdens het eerste gesprek maken we een realistische planning."
+        },
+        {
+          "question": "Bied je ook ondersteuning na de launch?",
+          "answer": "Absoluut! Ik bied verschillende onderhoudscontracten aan, van basis bugfixes tot uitgebreide feature development. Jouw applicatie blijft actueel en draait optimaal."
+        },
+        {
+          "question": "Welke technologieën gebruik je het meest?",
+          "answer": "Mijn tech stack bestaat uit React voor frontend, Node.js voor backend, PostgreSQL/MongoDB voor databases, en AWS/Vercel voor deployment. Ik kies altijd de beste technologie voor jouw specifieke project."
+        },
+        {
+          "question": "Hoe zorg je voor de kwaliteit van je code?",
+          "answer": "Ik werk met code reviews, automated testing, en volg industry best practices. Elk project krijgt uitgebreide documentatie en wordt gebouwd met oog voor onderhoudbaarheid en schaalbaarheid."
+        }
+      ]
+    },
+    "imagePrompts": {
+      "hero": "Modern full stack developer workspace with multiple monitors showing clean web applications, purple accent lighting, coding environment with React and Node.js interfaces, professional tech setup with minimal design aesthetic",
+      "about": "Professional developer portrait in modern office setting with natural lighting, clean workspace with monitors showing code and web applications, purple tech branding elements, approachable and confident atmosphere",
+      "uniqueBg": "Abstract digital network visualization with flowing code elements, purple and violet gradients, modern tech aesthetic with soft ambient lighting, professional development environment background",
+      "stepsBg": "Clean modern office space with development workflow visualization, agile boards, multiple monitors with project timelines, soft natural lighting with purple accent colors, professional collaborative environment",
+      "ctaBg": "Modern tech office with large windows, developer workspace with multiple screens showing successful web applications, purple branding elements, professional atmosphere with soft ambient lighting",
+      "dienstenHero": "Professional development services showcase with multiple device mockups displaying web applications, clean purple and white branding, modern office setting with bright commercial lighting",
+      "dienstenUsp": "High-tech development environment with code visualization, modern frameworks logos, clean workspace with purple accent lighting, professional expertise demonstration setup",
+      "projectenHero": "Portfolio showcase with multiple web application interfaces on various devices, successful project demonstrations, clean modern design with purple branding elements, bright professional photography",
+      "overOnsHero": "Professional developer portrait in modern workspace with personal branding elements, approachable lighting, clean office environment with tech equipment and purple accent colors",
+      "overOnsStory": "Personal workspace showing development journey with awards, certifications, project screenshots, modern office setting with natural lighting and professional purple tech branding",
+      "contactHero": "Modern communication setup with multiple contact channels, clean office space with tech equipment, professional consultation environment with purple branding and soft lighting"
+    }
+  },
+  "logoUrl": "data:image/png;base64,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",
+  "images": {
+    "hero": "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "about": "https://images.pexels.com/photos/3861951/pexels-photo-3861951.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "unique-bg": "https://images.pexels.com/photos/7135082/pexels-photo-7135082.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "steps-bg": "https://images.pexels.com/photos/7376/startup-photos.jpg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "cta-bg": "https://images.pexels.com/photos/36598855/pexels-photo-36598855.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "diensten-hero": "https://images.pexels.com/photos/29998407/pexels-photo-29998407.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "diensten-usp": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "projecten-hero": "https://images.pexels.com/photos/36598855/pexels-photo-36598855.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "over-ons-hero": "https://images.pexels.com/photos/6804594/pexels-photo-6804594.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "over-ons-story": "https://images.pexels.com/photos/6804594/pexels-photo-6804594.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "contact-hero": "https://images.pexels.com/photos/20501862/pexels-photo-20501862.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-0": "https://images.pexels.com/photos/36598855/pexels-photo-36598855.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-1": "https://images.pexels.com/photos/7190944/pexels-photo-7190944.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-2": "https://images.pexels.com/photos/5831343/pexels-photo-5831343.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-3": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-4": "https://images.pexels.com/photos/34212988/pexels-photo-34212988.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-5": "https://images.pexels.com/photos/4597280/pexels-photo-4597280.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-0": "https://images.pexels.com/photos/3861957/pexels-photo-3861957.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-1": "https://images.pexels.com/photos/16675635/pexels-photo-16675635.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-2": "https://images.pexels.com/photos/7054403/pexels-photo-7054403.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-3": "https://images.pexels.com/photos/7581018/pexels-photo-7581018.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-4": "https://images.pexels.com/photos/36950633/pexels-photo-36950633.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-5": "https://images.pexels.com/photos/5025643/pexels-photo-5025643.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "blog-0": "https://images.pexels.com/photos/33433724/pexels-photo-33433724.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "blog-1": "https://images.pexels.com/photos/34069/pexels-photo.jpg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "blog-2": "https://images.pexels.com/photos/17323801/pexels-photo-17323801.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  }
+}
